@@ -2,11 +2,11 @@
   "name": "@voicenter/amqplib",
   "homepage": "http://squaremo.github.io/amqp.node/",
   "main": "./channel_api.js",
-  "version": "0.5.6",
+  "version": "0.5.7",
   "description": "An AMQP 0-9-1 (e.g., RabbitMQ) library and client.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/squaremo/amqp.node.git"
+    "url": "https://github.com/voicenter/amqp.node"
   },
   "engines": {
     "node": ">=0.8 <=12"
